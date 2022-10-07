@@ -1,6 +1,6 @@
 # first_source_assessment
 
-assessment for FirstSource Company
+Implement Socket in Flutter with RiverPod 
 
 ## Getting Started
 
